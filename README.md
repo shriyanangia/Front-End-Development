@@ -3,6 +3,9 @@
 
 Main project in Jonas Schmedtmann's Ultimate React Course
 
+## Access Links
+https://the-wild-oasis-retreat.netlify.app/login
+https://the-wild-oasis-alpha-lake.vercel.app/login
 
 ### React + Vite
 
